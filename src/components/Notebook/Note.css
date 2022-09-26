@@ -1,0 +1,17 @@
+#pro{
+    display: flex;
+
+}
+#car{
+    box-shadow: 0 20px 35px rgba(0,0,0,0.25);
+display: flex;
+color: black;
+}
+#addcart-btn:hover{
+    background-color: black;
+    color: white;
+}
+#addcart-btn{
+    border:1px solid black;
+    color: black;
+}

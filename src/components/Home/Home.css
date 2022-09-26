@@ -1,0 +1,14 @@
+.hero{
+    /* width: 50%; */
+    border: none;
+    margin-top: 1rem;
+    /* margin: 0%; */
+
+}
+#cc{
+    border-radius: 0;
+    border: none;
+}
+#cc img{
+   border-radius: 0%;
+}

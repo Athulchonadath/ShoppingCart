@@ -1,0 +1,43 @@
+
+#nav{
+    width: 100%;
+    background-color:white;
+    color: white;
+    box-shadow: 0 20px 35px rgba(0,0,0,0.25);
+
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+.d{
+   
+    background-color: aqua;
+}
+#navbarSupportedContent li a{
+  color: black;
+}
+#btn{
+    /* background-color: rgb(92, 89, 89); */
+    color: black;
+    padding: 3px;
+}
+.navbar-brand{
+    font-family: monospace;
+}
+#bag{
+    margin: 3rem;
+    font-family: sans-serif;
+}
+#span{
+    /* background-color: chocolate; */
+    background-color: rgb(205, 203, 203);
+    color: white;
+    display: inline;
+    padding: 0.5rem 3rem;
+    clip-path: polygon(100% 0,93% 50%,100% 99%,0 100%,7% 50%,0 0);
+    box-shadow: 0 20px 35px rgba(0,0,0,0.25);
+    
+}
+#designed{
+    color: grey;
+}
